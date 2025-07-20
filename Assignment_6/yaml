@@ -1,0 +1,12 @@
+
+---
+
+## 🚀 Step-by-Step Deployment on Streamlit Cloud
+
+### 🔗 Step 1: Push to GitHub
+
+1. Create a new GitHub repository (e.g., `ml-hyperparameter-tuning`).
+2. Upload:
+   - `app.py`
+   - `requirements.txt`
+   - Optional: `README.md`
